@@ -1,0 +1,9 @@
+[{
+  "file": "D:\\VDK\\Cpp\\Cpp\\BT\\main.cpp",
+  "directory": "D:\\VDK\\Cpp\\Cpp\\BT",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c D:\\VDK\\Cpp\\Cpp\\BT\\main.cpp -o D:\\VDK\\Cpp\\Cpp\\BT\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\VDK\\Cpp\\Cpp\\01\\main.cpp",
+  "directory": "D:\\VDK\\Cpp\\Cpp\\01",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c D:\\VDK\\Cpp\\Cpp\\01\\main.cpp -o D:\\VDK\\Cpp\\Cpp\\01\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
